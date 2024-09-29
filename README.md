@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I am a Bachelor Software Development Graduate as of September 2024.
+
+
+I created this as a portfolio for my coding.
+
+
+I will be pursuing my  MBA Information Technology Management degree.
+
+
+
 <!--
 **Bigsteve124/Bigsteve124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
