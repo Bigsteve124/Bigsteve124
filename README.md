@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, my name is Steven Turner.
 
 I am a Bachelor Software Development Graduate as of September 2024.
 
